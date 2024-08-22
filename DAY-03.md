@@ -1,16 +1,6 @@
 # DAY 3
-* [ ] Completed all the labs from Portswigger labs (Lab 11-18) : https://portswigger.net/web-security/all-labs#sql-injection 
-* [ ] Started reading SQL Injection Attacks and Defense : Till Page no. : 40
-* [ ] Completed SQLi lab from TryHackme : https://tryhackme.com/room/sqlilab
-* [ ] Read blogs : 
-  *  https://securityidiots.com/Web-Pentest/SQL-Injection/MSSQL/mssql-dios.html
-  *  https://securityidiots.com/Web-Pentest/SQL-Injection/database-type-testing-sql-injection.html
-  *  https://securityidiots.com/Web-Pentest/SQL-Injection/MSSQL/MSSQL-Error-Based-Injection.html
-  *  https://securityidiots.com/Web-Pentest/SQL-Injection/multi-query-injection.html
-  *  https://securityidiots.com/Web-Pentest/SQL-Injection/mssql-insert-query-injection.html
-  *  https://securityidiots.com/Web-Pentest/SQL-Injection/oracle-sql-injection-dios-query.html
-  *  https://securityidiots.com/Web-Pentest/SQL-Injection/mssql-out-of-band-exploitation.html
-  *  https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716
-  *  https://flattsecurity.medium.com/finding-an-unseen-sql-injection-by-bypassing-escape-functions-in-mysqljs-mysql-90b27f6542b4
-  *  https://hackerone.com/reports/273946
-  *  https://medium.com/@frostnull/sql-injection-through-user-agent-44a1150f6888
+* [ ] Completed all the labs from Portswigger labs (Lab 25-30) : [https://portswigger.net/web-security/all-labs#sql-injection ](https://portswigger.net/web-security/all-labs#cross-site-scripting)
+* [ ] Started reading XSS Attacks: Cross-Site Scripting Exploits and Defense : Chp 1 & 2
+* [ ] Completed cross-site scripting lab from TryHackme : [https://tryhackme.com/room/sqlilab](https://tryhackme.com/r/room/axss)
+* [ ] Read github(https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Web.md#sql) :
+  * finish Articles/Blogposts/Writeups & Presentations, Talks, Videos
