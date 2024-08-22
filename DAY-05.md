@@ -1,10 +1,8 @@
 # DAY 5
 
-* [ ] Read the book SQL Injection Attacks and Defense till Page 100
+* [ ] Read  XSS Attacks: Cross-Site Scripting Exploits and Defense : Chp 5 & 6
 * [ ] Did Root-me CTF challenge :
-  * https://www.root-me.org/en/Challenges/Web-Server/SQL-injection-authentication?lang=en
-* [ ] Read blogs of HTB tagged with SQLi- 
-  * https://infosecwriteups.com/hackthebox-control-51eac2b08a5a
-  * https://hackmd.io/@Chivato/rJkRoCu8D
-  * https://systemweakness.com/write-up-hack-the-box-starting-point-tier-1-9c5720becb78
-* [ ] Watched : https://www.youtube.com/watch?v=WmCioU9F2_8 
+  * [https://www.root-me.org/en/Challenges/Web-Server/SQL-injection-authentication?lang=en](https://www.root-me.org/?page=recherche&lang=en&recherche=xss)
+* [ ] Read github(https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Web.md#sql) :
+  * finish Types-Of:DOM-based:Articles/Blogposts/Writeups
+* [ ] Watched : [https://www.youtube.com/watch?v=WmCioU9F2_8 ](https://www.youtube.com/watch?v=NACzUg2z4aY)
