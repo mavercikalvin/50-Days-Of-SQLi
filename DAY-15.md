@@ -1,3 +1,3 @@
 DAY 15 
 
-* [ ] Hunted on private program at hackerone. Found some to-test type of things. Will do it tomorrow!
+* [ ] Read website: finish all xss(https://blog.securitybreached.org/2023/08/18/bug-bounty-blueprint-a-beginners-guide/)
