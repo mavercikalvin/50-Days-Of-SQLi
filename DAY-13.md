@@ -1,4 +1,3 @@
 DAY 13
-* [ ] Re revised the book till page 100.
-* [ ] Read blog :  https://systemweakness.com/handbook-for-sql-injection-2c12ec29d7ee
-* [ ] Solved: https://www.root-me.org/en/Challenges/Web-Server/SQL-injection-authentication-GBK
+* [ ] Read github(https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Web.md#sql) :
+  * finish Training, Tools and Writeups
