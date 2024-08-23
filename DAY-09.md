@@ -1,3 +1,3 @@
 # DAY 9
-* [ ] Just read the book  SQL Injection Attack and Defense till page 200.
+* [ ] Read  XSS Attacks: Cross-Site Scripting Exploits and Defense : Chp 7
  
