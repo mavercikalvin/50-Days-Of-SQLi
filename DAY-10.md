@@ -1,5 +1,5 @@
 # DAY 10 
-* [ ] Could just read SQL Injection Attack and Defense till page 210
+* [ ] Read  XSS Attacks: Cross-Site Scripting Exploits and Defense : Chp 8
 * [ ] Watched following videos : 
   * https://www.youtube.com/watch?v=tJMVn8vxhVw
   * https://www.youtube.com/watch?v=tJMVn8vxhVw
