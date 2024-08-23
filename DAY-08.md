@@ -1,5 +1,5 @@
 # DAY 8
-* [ ] Read the book SQL Injection Attacks and Defense till Page 170 
+* [ ] Read  XSS Attacks: Cross-Site Scripting Exploits and Defense : Chp 6
 * [ ] Learned few functions for MySQL from https://www.w3schools.com/mysql/mysql_ref_functions.asp 
 * [ ] Read blog : 
   * https://github.com/OWASP/www-community/blob/master/pages/attacks/SQL_Injection_Bypassing_WAF.md
