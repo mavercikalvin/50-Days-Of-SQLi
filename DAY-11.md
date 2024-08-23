@@ -1,4 +1,4 @@
 # DAY 11 
 
-* [ ] Could just read SQL Injection Attack and Defense till page 230
+* [ ] Read  XSS Attacks: Cross-Site Scripting Exploits and Defense : Chp 9
 * [ ]Hunted on a h1 private program. However found nothing but tried my best.
